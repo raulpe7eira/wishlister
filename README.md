@@ -1,4 +1,4 @@
-# Wishlister (vlab for [http://jaya.tech//](http://jaya.tech/))
+# Wishlister (vlab for [http://jaya.tech/](http://jaya.tech/))
 
 Um pequeno projeto para testar minhas habilidades.
 

@@ -44,11 +44,6 @@ class RouterController {
         return "signin"
     }
 
-    @GetMapping("/5XX")
-    fun erro(model: Model): String {
-        return "5XX"
-    }
-
     @GetMapping("/signin")
     fun signin(model: Model): String {
         return "signin"
@@ -121,6 +116,11 @@ class RouterController {
             return "home"
         }
         return "signin"
+    }
+
+    @GetMapping("*")
+    fun erro(model: Model): String {
+        return "4XX"
     }
 
 }

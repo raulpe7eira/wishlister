@@ -37,7 +37,6 @@ repositories {
 dependencies {
 	compile('com.squareup.retrofit2:converter-gson:2.3.0')
 	compile('com.squareup.retrofit2:retrofit:2.3.0')
-	compile("org.springframework.boot:spring-boot-devtools")
     compile("org.springframework.boot:spring-boot-starter-thymeleaf")
 	compile('org.springframework.boot:spring-boot-starter-web')
     compile('org.springframework.social:spring-social-config')

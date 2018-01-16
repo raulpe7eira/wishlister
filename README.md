@@ -79,6 +79,4 @@ Foi bem desafiador aprender uma nova linguagem e desenvolver um teste em apenas 
 
 Após toda essa demora para efetuar a autenticação, o restante até que fluiu bem, só não finalizei todos os itens almejados pelo desafio pela falta de tempo mesmo, fica como débito técnico, configurar a autenticação para usar o [Spring Social](https://projects.spring.io/spring-social/), conforme foi inicialmente almejado, configurar a aplicação para usar [Spring Security](https://projects.spring.io/spring-security/), efetuar a cobertura de todos os serviços com testes, retirar toda parte de frontend do backend e usar [React](https://reactjs.org/) ou [Vue.js](https://vuejs.org/) nessa camada.
 
-Espero que tenham gostando, pois meu desejo é fazer parte desse time e somar!
-
-**AVANTE!** :muscle:
+Espero que tenham gostando... **AVANTE!** :muscle:
